@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>style.css</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Montserrat-SemiBold.ttf</file>
+        <file>Montserrat-Medium.ttf</file>
+    </qresource>
+</RCC>

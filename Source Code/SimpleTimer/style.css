@@ -1,0 +1,13 @@
+QPushButton { color: #e7e7e7; background-color: #4d4d4d; border: none; border-radius: 5px; }
+			
+QPushButton:hover { color: #e7e7e7; background-color: #1d1d1d; }
+ 
+QPushButton:pressed { color: #e7e7e7; background-color: #1d1d1d; }
+
+QMainWindow { background: #333333 }
+			
+QPlainTextEdit { color: #e7e7e7; background-color: #454545; border: none; border-radius: 10px; 
+                 padding-left: 10px; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; }
+QTimeEdit { color: #e7e7e7; background-color: #454545; border: #434343; border-radius: 10px; }
+QLabel { color: #e7e7e7; }
+QMessageBox { background-color: #454545; border: none; }
